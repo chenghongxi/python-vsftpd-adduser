@@ -10,4 +10,5 @@
 #python依赖包安装完毕
 
 执行：
-python all.py
+python all.py 如图：
+![image](https://github.com/chenghongxi/python-vsftpd-adduser/blob/main/images/%E5%8A%9F%E8%83%BD.png)

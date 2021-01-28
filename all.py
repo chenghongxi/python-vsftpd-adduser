@@ -65,7 +65,7 @@ def mkdirs(path):
         return False
 
 def Insert_mysql(user,passwd):
-    conn = pymysql.connect(host='19.133.3.232', port=8635, user='root', passwd='Huawei@234', db='vsftpdvu')
+    conn = pymysql.connect(host='***', port=8635, user='root', passwd='*****', db='vsftpdvu')
     cur = conn.cursor()
     cur.execute("insert into users(name,passwd) VALUES ('{0}','{1}')".format(user,passwd))
     conn.commit()

@@ -10,7 +10,7 @@
 #python依赖包安装完毕
 
 changbai.xlsx文件内容：注：必须清除相关格式
-![image]https://github.com/chenghongxi/python-vsftpd-adduser/blob/main/images/elsx%E6%A0%BC%E5%BC%8F.png
+![image]https://github.com/chenghongxi/python-vsftpd-adduser/blob/main/images/elsx格式.png
 
 
 执行：
